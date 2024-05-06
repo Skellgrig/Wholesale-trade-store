@@ -1,2 +1,2 @@
-# Wholesale-trade-store
-TwoSkeletons
+# Команда TwoSkeletons
+Приложение "Магазин оптовой торговли"
